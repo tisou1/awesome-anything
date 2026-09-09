@@ -38,9 +38,9 @@
 ### 其他
 
 - Build 打包你的 TypeScript JavaScript库
-  - tsup
-  - unbuild
-  - bunchee
+  - [tsup](https://github.com/egoist/tsup)
+  - [unbuild](https://github.com/unjs/unbuild)
+  - [bunchee](https://github.com/huozhi/bunchee)
 - nodejs 命令行
   - [cac](https://github.com/cacjs/cac) 解析nodejs命令行
   - [yargs](https://github.com/yargs/yargs)
