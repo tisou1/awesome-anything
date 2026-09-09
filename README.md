@@ -25,10 +25,24 @@
 ## 前端
 
 - [React](https://react.dev) 
+  - [Nextjs](https://nextjs.org/)
+  - [Tanstacck](https://tanstack.com/) 系列工具，不仅适用于react
+  - UI
+    - [antd](https://ant.design/index-cn)
+    - [shadcn UI](https://ui.shadcn.com/)
+    - [tailwindcss](https://tailwindcss.com/) atom css
+    - [stylex](https://stylexjs.com/) css in js
+  
+  - Store管理
+    - [Redux](https://redux.js.org/)
+    - [zustand](https://zustand-demo.pmnd.rs/)
+  
+  - [sonner](https://github.com/emilkowalski/sonner) toast提示
   - [allotment](https://github.com/johnwalley/allotment)一个用于可调整大小的分割视图的 React 组件
   - [react-split-pane](https://github.com/tomkp/react-split-pane)React 分窗组件
   - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一种可拖动和调整大小的网格布局，具有响应式断点设置，适用于 React 环境。
   - [FlexLayout](https://github.com/antoniandre/splitpanes)布局管理  **leetcode同款**
+  
 - [Vue](https://cn.vuejs.org/)
   - [splitpanes](https://github.com/antoniandre/splitpanes) 一款适用于 Vue 3 和 2 框架的、可靠的、简单的、支持触摸操作的窗分割器/调整工具。
 - [Svelte](https://svelte.dev/)
@@ -36,6 +50,9 @@
 - [Preact](https://preactjs.com/)
 
 ### 其他
+
+- [Vite](https://vite.dev/)
+- [Vitest](https://vitest.dev/)
 
 - Build 打包你的 TypeScript JavaScript库
   - [tsup](https://github.com/egoist/tsup)
@@ -48,3 +65,10 @@
   - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) 一系列常见的交互式命令行用户界面。
   - [prompts](https://github.com/terkelg/prompts) 轻量级、美观且易于使用的交互式提示工具
 
+- 桌面应用开发
+  - [Electron](https://electronjs.org/)
+  - [Tauri](https://v2.tauri.app/)
+  - [Electron-vite](https://electron-vite.org/)
+  - [Electronbun](http://blackboard.sh/electrobun)
+  - [wails](https://wails.io/) go语言开发
+  - [native-sdk](https://native-sdk.dev/docs/quick-start) zig开发
